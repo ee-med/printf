@@ -1,6 +1,6 @@
 #include "ft_printf.h"
 
-void	print_ui(unsigned long nbr, char xXu, int *len)
+void	print_ui(unsigned int nbr, char xXu, int *len)
 {
 	char	*hex;
 	char	*hexmaj;
